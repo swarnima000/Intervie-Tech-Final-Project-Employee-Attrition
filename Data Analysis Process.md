@@ -1,6 +1,6 @@
 The data analysis part of the employee attrition project involves exploring the dataset to gain insights into the factors that may be influencing employee attrition. Here's a breakdown of the key steps involved in the data analysis process:
 
-1. **Loading the Data**:
+1. **Loading the Data** :
    - The dataset is loaded into a pandas DataFrame from a CSV file using the provided URL.
 
 2. **Checking for Null Values**:
