@@ -16,4 +16,5 @@
    - Two machine learning models are built for predicting employee attrition: Decision Tree Classifier and Random Forest Classifier.
    - The SMOTE (Synthetic Minority Over-sampling Technique) is used to balance the target column (Attrition) to handle class imbalance.
    - The models are trained on the balanced dataset and evaluated using classification reports and F1 scores.
+   - Random Forest demonstrated superior performance with an accuracy rate of 94%.
 
